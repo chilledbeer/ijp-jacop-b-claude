@@ -5,3 +5,5 @@ This is a modified version of the JACoP plugin originally developed by F. Cordel
 The GUI modifications were generated with the assistance of Claude. Since I have limited programming experience, I have not extensively validated the implementation. If you plan to use this version for quantitative analyses, I recommend comparing its results with those obtained using the official **ijp-jacop-b** plugin to ensure consistency.
 
 This version is intended solely as a usability improvement for users working with smaller displays.
+
+I wish there were sliders to adjust threshold like those in JACoP too..
